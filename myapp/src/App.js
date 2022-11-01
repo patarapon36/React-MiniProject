@@ -2,6 +2,7 @@ import Todo from "./component/Todo";
 
 function App(props) {
   console.log(props.tasks);
+  console.log("testgit");
   return (
     <div className="todoapp stack-large">
        
