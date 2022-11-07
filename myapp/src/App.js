@@ -3,8 +3,6 @@ import Todo from "./component/Todo";
 function App(props) {
   console.log(props.tasks);
   console.log("testgit");
-  console.log("testgit2");
-  console.log("testgit3");
   return (
     <div className="todoapp stack-large">
        
